@@ -1,0 +1,5 @@
+path: 替换为自己的数据集地址
+train: images/train
+val: images/val
+nc: 1
+names: ['bicycle']

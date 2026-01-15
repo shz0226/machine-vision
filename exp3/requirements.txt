@@ -1,0 +1,7 @@
+# 实验三依赖环境
+# Python 3.9
+torch>=2.0.0
+torchvision>=0.15.0
+opencv-python
+tqdm
+numpy
